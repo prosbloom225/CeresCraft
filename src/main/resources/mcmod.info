@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cerescraft",
+  "name": "CeresCraft",
+  "description": "Muh mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["prosbloom"],
+  "credits": "Baby Jesus",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

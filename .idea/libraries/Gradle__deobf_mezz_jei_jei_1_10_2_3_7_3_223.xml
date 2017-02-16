@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: deobf.mezz.jei:jei_1.10.2:3.7.3.223">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/minecraft/deobfedDeps/deobf/mezz/jei/jei_1.10.2/3.7.3.223/jei_1.10.2-3.7.3.223.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/minecraft/deobfedDeps/deobf/mezz/jei/jei_1.10.2/3.7.3.223/jei_1.10.2-3.7.3.223-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

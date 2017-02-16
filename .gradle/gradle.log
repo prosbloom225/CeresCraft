@@ -1,0 +1,292 @@
+#################################################
+         ForgeGradle 2.2-SNAPSHOT-2112b0a        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+               Powered by MCP unknown               
+             http://modcoderpack.com             
+         by: Searge, ProfMobius, Fesh0r,         
+         R4wk, ZeuX, IngisKahn, bspkrs           
+#################################################
+Found AccessTransformer: jei_at.cfg_jei_1.10.2-3.7.3.223_at.cfg
+:extractMcpMappings SKIPPED
+:deobfCompileDeobfDepTask0 SKIPPED
+:deobfCompileDeobfDepTask1 SKIPPED
+:deobfCompileRemapDepSourcesTask2 SKIPPED
+:deobfCompileRemapDepSourcesTask3 SKIPPED
+:deobfCompileDummyTask
+:deobfProvidedDummyTask
+:sourceApiJava UP-TO-DATE
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJavaNote: /Users/prosbloom/Projects/minecraft/CeresCraft/build/sources/main/java/com/ceres/cerescraft/common/tileentity/TileBase.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+:processResources UP-TO-DATE
+:classes
+:jar
+:getVersionJson
+:extractNatives SKIPPED
+:extractUserdev UP-TO-DATE
+:getAssetIndex UP-TO-DATE
+:getAssets
+Current status: 535/1112   48%
+Current status: 1094/1112   98%
+:makeStart SKIPPED
+:runClient
+[16:54:30] [main/INFO] [GradleStart]: Extra: []
+[16:54:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/prosbloom/.gradle/caches/minecraft/assets, --assetIndex, 1.10, --accessToken{REDACTED}, --version, 1.10.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:54:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:54:30] [main/INFO] [FML]: Forge Mod Loader version 12.18.1.2026 for Minecraft 1.10.2 loading
+[16:54:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_60, running on Mac OS X:x86_64:10.12.3, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre
+[16:54:30] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[16:54:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:54:30] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[16:54:30] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[16:54:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:54:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:54:30] [main/ERROR] [FML]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[16:54:31] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[16:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:54:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[16:54:37] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...
+[16:54:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:54:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:54:37] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[16:54:38] [Client thread/INFO]: Setting user: Player375
+[16:54:43] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:54:43] [Client thread/INFO]: LWJGL Version: 2.9.2
+[16:54:44] [Client thread/INFO] [FML]: MinecraftForge v12.18.1.2026 Initialized
+[16:54:44] [Client thread/INFO] [FML]: Replaced 233 ore recipes
+[16:54:44] [Client thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[16:54:44] [Client thread/INFO] [FML]: Searching /Users/prosbloom/Projects/minecraft/CeresCraft/run/mods for mods
+[16:54:44] [Client thread/WARN] [FML]: ****************************************
+[16:54:44] [Client thread/WARN] [FML]: * The modid Waila is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[16:54:44] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[16:54:44] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[16:54:44] [Client thread/WARN] [FML]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:422)...
+[16:54:44] [Client thread/WARN] [FML]: ****************************************
+[16:54:44] [Client thread/WARN] [FML]: ****************************************
+[16:54:44] [Client thread/WARN] [FML]: * The modid JEI is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[16:54:44] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[16:54:44] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[16:54:44] [Client thread/WARN] [FML]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[16:54:44] [Client thread/WARN] [FML]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:422)...
+[16:54:44] [Client thread/WARN] [FML]: ****************************************
+[16:54:47] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[16:54:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, Waila, JEI, cerescraft] at CLIENT
+[16:54:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, Waila, JEI, cerescraft] at SERVER
+[16:54:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Waila, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:CeresCraft
+[16:54:50] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:54:50] [Client thread/INFO] [FML]: Found 423 ObjectHolder annotations
+[16:54:50] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:54:50] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:54:50] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:54:50] [Forge Version Check/INFO] [ForgeVersionCheck]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:init:53]: Block: oreNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:init:53]: Block: oreChromite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:init:53]: Block: oreMolybdenite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:init:53]: Block: blockCrusher
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:init:59]: Tile: null
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: dustChromite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: dustMolybdenite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: dustNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: dustSulfur
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: ingotGraphite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: ingotHastelloy
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:init:47]: item: ingotNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:initRenders:68]: initRenders called for block: tile.oreNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:initModel:62]: initModel called
+[16:54:50] [Forge Version Check/INFO] [ForgeVersionCheck]: [Forge] Found status: OUTDATED Target: 12.18.3.2185
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:initRenders:68]: initRenders called for block: tile.oreChromite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:initModel:62]: initModel called
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:initRenders:68]: initRenders called for block: tile.oreMolybdenite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:initModel:62]: initModel called
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModBlocks:initRenders:68]: initRenders called for block: tile.blockCrusher
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:initModel:62]: initModel called
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.dustChromite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.dustChromite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.dustMolybdenite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.dustMolybdenite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.dustNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.dustNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.dustSulfur
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.dustSulfur
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.ingotGraphite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.ingotGraphite
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.ingotHastelloy
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.ingotHastelloy
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.ModItems:initRenders:55]: initRenders called for item: item.ingotNickel
+[16:54:50] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.item.ItemBase:initModel:24]: initModel called for item: item.ingotNickel
+[16:54:50] [Client thread/INFO] [FML]: OBJLoader: Domain cerescraft has been added.
+[16:54:50] [Client thread/INFO] [FML]: Applying holder lookups
+[16:54:50] [Client thread/INFO] [FML]: Holder lookups applied
+[16:54:50] [Client thread/INFO] [FML]: Injecting itemstacks
+[16:54:50] [Client thread/INFO] [FML]: Itemstack injection complete
+[16:54:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:54:52] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[16:54:52] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:54:52] [Thread-6/INFO]: OpenAL initialized.
+[16:54:52] [Sound Library Loader/INFO]: Sound engine started
+[16:54:55] [Client thread/INFO] [FML]: Max texture size: 16384
+[16:54:56] [Client thread/INFO]: Created: 16x16 textures-atlas
+[16:54:59] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.CommonProxy:init:29]: GuiProxy initialized
+[16:54:59] [Client thread/INFO] [FML]: Injecting itemstacks
+[16:54:59] [Client thread/INFO] [FML]: Itemstack injection complete
+[16:55:00] [Client thread/INFO] [STDOUT]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:99]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[16:55:00] [Client thread/INFO] [Waila]: [Agriculture] Agriculture mod not found.
+[16:55:00] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[16:55:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Waila, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:CeresCraft
+[16:55:01] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:02] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:55:02] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:02] [Thread-9/INFO]: OpenAL initialized.
+[16:55:02] [Sound Library Loader/INFO]: Sound engine started
+[16:55:04] [Client thread/INFO] [FML]: Max texture size: 16384
+[16:55:04] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:05] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:55:11] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[16:55:11] [Server thread/INFO]: Generating keypair
+[16:55:11] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[16:55:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:55:11] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:11] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:11] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@e273cf5)
+[16:55:12] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@e273cf5)
+[16:55:12] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@e273cf5)
+[16:55:12] [Server thread/INFO]: Preparing start region for level 0
+[16:55:12] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:55:14] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[16:55:14] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[16:55:14] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : Waila@1.7.0,FML@8.0.99.99,cerescraft@1.0,Forge@12.18.1.2026,mcp@9.19,JEI@3.7.3.223
+[16:55:14] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[16:55:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:55:14] [Server thread/INFO]: Player375[local:E:4af66866] logged in with entity id 135 at (-720.4801074922719, 4.0, -1605.8268567713872)
+[16:55:14] [Server thread/INFO]: Player375 joined the game
+[16:55:14] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Player375'/135, l='New World', x=-720.48, y=4.00, z=-1605.83] connected. Sending ping
+[16:55:15] [Server thread/INFO]: Saving and pausing game...
+[16:55:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:55:15] [Client thread/INFO] [JEI]: Registering plugin: mezz.jei.plugins.vanilla.VanillaPlugin
+[16:55:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:55:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:55:15] [Client thread/INFO] [JEI]: Registered  plugin: mezz.jei.plugins.vanilla.VanillaPlugin in 0 seconds
+[16:55:15] [Client thread/INFO] [JEI]: Registering plugin: mezz.jei.plugins.jei.JEIInternalPlugin
+[16:55:15] [Client thread/INFO] [JEI]: Registered  plugin: mezz.jei.plugins.jei.JEIInternalPlugin in 0 seconds
+[16:55:16] [Netty Local Client IO #0/INFO] [Waila]: Received server authentication msg. Remote sync will be activated
+[16:55:17] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@3619a1da[id=3bdd7bc1-57b3-3ed1-a14e-cc7341dec1b1,name=Player375,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:59) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:56) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:165) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3060) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:131) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_60]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_60]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_60]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_60]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_60]
+[16:55:17] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_60]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_60]
+	at net.minecraft.util.Util.runTask(Util.java:26) [Util.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1108) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:406) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraftforge.items.ItemStackHandler.deserializeNBT(ItemStackHandler.java:179) ~[ItemStackHandler.class:?]
+	at com.ceres.cerescraft.common.tileentity.TileBase.readFromNBT(TileBase.java:34) ~[TileBase.class:?]
+	at net.minecraft.tileentity.TileEntity.handleUpdateTag(TileEntity.java:374) ~[TileEntity.class:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleChunkData(NetHandlerPlayClient.java:803) ~[NetHandlerPlayClient.class:?]
+	at net.minecraft.network.play.server.SPacketChunkData.processPacket(SPacketChunkData.java:110) ~[SPacketChunkData.class:?]
+	at net.minecraft.network.play.server.SPacketChunkData.processPacket(SPacketChunkData.java:20) ~[SPacketChunkData.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_60]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_60]
+	at net.minecraft.util.Util.runTask(Util.java:25) ~[Util.class:?]
+	... 15 more
+[16:55:17] [Server thread/INFO]: Saving and pausing game...
+[16:55:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:55:17] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:55:17] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+2017-02-16 16:55:22.804 java[25825:955342] Unknown modifier with keycode: 0
+[16:55:24] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:onBlockActivated:48]: Block activated: 
+[16:55:24] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:onBlockActivated:48]: Block activated: 
+[16:55:24] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getServerGuiElement:19]: getServerGuiElement called
+[16:55:24] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getServerGuiElement:22]: Getting gui for id: 0
+[16:55:24] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:47]: Adding slots
+[16:55:24] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:48]: numSlots: 1
+[16:55:24] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getClientGuiElement:32]: getClientGuiElement called
+[16:55:24] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getClientGuiElement:35]: Getting gui for id: 0
+[16:55:24] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:47]: Adding slots
+[16:55:24] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:48]: numSlots: 1
+[16:55:34] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:onBlockActivated:48]: Block activated: 
+[16:55:34] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.block.BlockBase:onBlockActivated:48]: Block activated: 
+[16:55:34] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getServerGuiElement:19]: getServerGuiElement called
+[16:55:34] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getServerGuiElement:22]: Getting gui for id: 0
+[16:55:34] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:47]: Adding slots
+[16:55:34] [Server thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:48]: numSlots: 1
+[16:55:34] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getClientGuiElement:32]: getClientGuiElement called
+[16:55:34] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.GuiProxy:getClientGuiElement:35]: Getting gui for id: 0
+[16:55:34] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:47]: Adding slots
+[16:55:34] [Client thread/INFO] [STDOUT]: [com.ceres.cerescraft.common.container.ContainerCrusher:addOwnSlots:48]: numSlots: 1
+[16:55:39] [Client thread/INFO]: Stopping!
+[16:55:39] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:39] [Server thread/INFO]: Stopping server
+[16:55:39] [Server thread/INFO]: Saving players
+[16:55:39] [Server thread/INFO]: Saving worlds
+[16:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:55:39] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:55:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:55:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:55:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:40] [Server thread/INFO] [FML]: Holder lookups applied
+AL lib: (WW) FreeDevice: (0x7ffd875c4400) Deleting 3 Buffer(s)
+[16:55:40] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:40] [Client Shutdown Thread/INFO]: Stopping server
+[16:55:40] [Client Shutdown Thread/INFO]: Saving players
+[16:55:40] [Client Shutdown Thread/INFO]: Saving worlds
+
+BUILD SUCCESSFUL
+
+Total time: 1 mins 34.184 secs

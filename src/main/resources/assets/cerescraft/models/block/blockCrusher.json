@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "cerescraft:blocks/blockCrusher",
+    "down": "cerescraft:blocks/blockCrusher",
+    "up": "cerescraft:blocks/blockCrusher",
+    "east": "cerescraft:blocks/blockCrusher",
+    "west": "cerescraft:blocks/blockCrusher",
+    "north": "cerescraft:blocks/blockCrusher",
+    "south": "cerescraft:blocks/blockCrusher"
+  }
+}

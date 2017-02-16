@@ -1,0 +1,23 @@
+itemGroup.cerescraft=CeresCraft
+
+tile.blockCrusher=Crusher
+
+tile.blockHastelloy.name=Hastelloy Block
+tile.blockNickel.name=Nickel Block
+
+tile.oreNickel.name=Nickel Ore
+tile.oreMolybdenite.name=Molybdenite Ore
+tile.oreChromite.name=Chromite Ore
+
+
+
+item.ingotHastelloy.name=Hastelloy Ingot
+item.ingotNickel.name=Nickel Ingot
+item.ingotGraphite.name=Graphite Ingot
+
+item.dustMolybdenite.name=Molybdenite Dust
+item.dustChromite.name=Chromite Dust
+item.dustNickel.name=Nickel Dust
+item.dustSulfur.name=Sulfur Dust
+
+
